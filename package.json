@@ -1,6 +1,6 @@
 {
   "name": "is-a-word",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get English word definitions & other cool utility functions.",
   "main": "index.js",
   "scripts": {
