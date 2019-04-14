@@ -1,0 +1,27 @@
+{
+  "name": "is-a-word",
+  "version": "1.0.1",
+  "description": "Get English word definitions & other cool utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [
+    "Grammar",
+    "Word",
+    "Definition",
+    "English",
+    "Utilities"
+  ],
+  "author": "shaneiadt@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^6.1.3"
+  }
+}
